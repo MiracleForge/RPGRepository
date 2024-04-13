@@ -1,0 +1,9 @@
+enum STATE_ENEMY {
+	IDE,
+	WALKING,
+	AGGRO,
+	CHASING,
+	
+}
+
+ninja_state = STATE_ENEMY.WALKING;

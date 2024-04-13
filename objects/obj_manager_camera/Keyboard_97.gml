@@ -1,0 +1,1 @@
+zoom_target = 1; // Zoom in
